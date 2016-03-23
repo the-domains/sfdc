@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[sfdc]]></title>
         <description><![CDATA[sfdc]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sfdc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 17:50:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 17:51:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sfdc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello this is a site about CRM and connections.  I'm passionate about businesses 'knowing their customers' and using that knowledge to drive great customer experience whatever the type of business.  A little about me ?  I have over twenty years in the technology industry, setup an ISP in University, built mobile infrastructure as a software developer and collaboration solutions for financial services.  My current role sees me working with customers to enable them to take advantage of the salesforce platform but this blog won't focus exclusively on salesforce!</p>]]></description>
-            <link>undefinedee92c8b4-1527-45bf-9400-096b1d62dba7/index.html</link>
+            <link>https://thegrid.ai/sfdc/ee92c8b4-1527-45bf-9400-096b1d62dba7/index.html</link>
             <guid isPermaLink="false">ee92c8b4-1527-45bf-9400-096b1d62dba7</guid>
-            <pubDate>Wed, 23 Mar 2016 17:50:46 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2016 17:51:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
