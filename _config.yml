@@ -1,29 +1,41 @@
-name: sfdc
-favicon: null
-layout_spectrum: 0.338436619611457
-typography_spectrum: 0.6274
-title: 'Knowing Your Customers, Employees, Partners'
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.338436619611457
+title: 'Knowing Your Customers, Employees, Partners'
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.185372814303264
+  brandStrength: 0.6875
+  rhythmicContrast: 0.25
   brandColors:
     - '#022750'
     - '#00a1e1'
     - '#ffffff'
     - '#8094a9'
     - '#b6cad4'
-  brandStrength: 0.6875
   lightness: 0.3397356462664902
-  saturation: 0.18537281430326402
-  rhythmicContrast: 0.25
 purpose: []
+favicon: null
+name: sfdc
+typography_spectrum: 0.6274
